@@ -1,3 +1,3 @@
-import charts.animated_scatter_plot as asp
+import mermaid.mermaid as mm
 
-asp.driver()
+mm.driver()
